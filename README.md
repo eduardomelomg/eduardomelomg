@@ -1,6 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=260&color=0:020617,45:07111f,100:111827&text=%3C%20Eduardo%20Melo%20%2F%3E&fontColor=22d3ee&fontSize=52&animation=fadeIn&stroke=8b5cf6&strokeWidth=1&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%2B%20Python%20%2B%20PostgreSQL&descAlignY=68&descSize=17" />
+<h1>
+  &lt; Eduardo Melo /&gt;
+</h1>
+
+<h3>
+  Desenvolvedor Full Stack • React • Python • PostgreSQL
+</h3>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=900&lines=%3E+booting+developer+environment...;%3E+loading+internal+systems...;%3E+connecting+APIs+and+databases...;%3E+automating+real+operations...;%3E+access+granted." />
 
@@ -39,9 +45,10 @@
 
 Sou **Eduardo Melo**, desenvolvedor full stack focado em construir sistemas web, automações e ferramentas internas para resolver problemas reais de operação.
 
-Meu trabalho não para na interface. Eu gosto de conectar **frontend, backend, banco de dados, regras de negócio, integrações, relatórios e automações** para criar soluções que sejam úteis no dia a dia de uma empresa.
+Meu trabalho conecta **interface, regra de negócio, banco de dados, APIs, relatórios, automações e integrações externas**. Gosto de construir sistemas que saem do campo da ideia e entram no uso prático: controle de jornada, dashboards, leitura automatizada de documentos, gestão interna, notificações e fluxos que reduzem tarefas manuais.
 
-Atuo principalmente criando sistemas internos, dashboards, plataformas administrativas, APIs, leitura automatizada de documentos, controle de jornada, notificações e fluxos que reduzem tarefas manuais.
+Não desenvolvo apenas telas.  
+Desenvolvo ferramentas para organizar processos, reduzir ruído operacional e transformar tarefas repetitivas em sistemas claros, seguros e eficientes.
 
 ```js
 const EduardoMelo = {
@@ -110,19 +117,39 @@ const EduardoMelo = {
   <tr>
     <td width="25%">
       <h3>Frontend</h3>
-      <p>React JS<br/>Next.js<br/>Vite<br/>Tailwind CSS</p>
+      <p>
+        React JS<br/>
+        Next.js<br/>
+        Vite<br/>
+        Tailwind CSS
+      </p>
     </td>
     <td width="25%">
       <h3>Backend</h3>
-      <p>Node.js<br/>Python<br/>APIs REST<br/>Regras de negócio</p>
+      <p>
+        Node.js<br/>
+        Python<br/>
+        APIs REST<br/>
+        Regras de negócio
+      </p>
     </td>
     <td width="25%">
       <h3>Database</h3>
-      <p>PostgreSQL<br/>Supabase<br/>Modelagem<br/>Consultas</p>
+      <p>
+        PostgreSQL<br/>
+        Supabase<br/>
+        Modelagem<br/>
+        Consultas
+      </p>
     </td>
     <td width="25%">
       <h3>Integrações</h3>
-      <p>Evolution API<br/>Brevo<br/>EmailJS<br/>Gemini / PDFParser</p>
+      <p>
+        Evolution API<br/>
+        Brevo<br/>
+        EmailJS<br/>
+        Gemini / PDFParser
+      </p>
     </td>
   </tr>
 </table>
@@ -217,7 +244,7 @@ const EduardoMelo = {
 01. Entender a dor antes de pensar na tela
 02. Transformar processos manuais em fluxos digitais
 03. Separar interface, regra de negócio e dados
-04. Criar sistemas que sejam simples para quem usa
+04. Criar sistemas simples para quem usa
 05. Automatizar o que não precisa ser repetido
 06. Registrar informações com clareza
 07. Gerar relatórios que ajudam na decisão
@@ -228,30 +255,34 @@ const EduardoMelo = {
 
 ## 🔧 System Capabilities
 
-<div align="center">
-
 <table>
   <tr>
     <td align="center" width="25%">
       <h3>APIs</h3>
-      <p>Integração entre sistemas, serviços externos e fluxos internos.</p>
+      <p>
+        Integração entre sistemas, serviços externos e fluxos internos.
+      </p>
     </td>
     <td align="center" width="25%">
       <h3>Dashboards</h3>
-      <p>Painéis administrativos, indicadores e dados para decisão.</p>
+      <p>
+        Painéis administrativos, indicadores e dados para decisão.
+      </p>
     </td>
     <td align="center" width="25%">
       <h3>Automação</h3>
-      <p>Processamento de rotinas, documentos, cálculos e notificações.</p>
+      <p>
+        Processamento de rotinas, documentos, cálculos e notificações.
+      </p>
     </td>
     <td align="center" width="25%">
       <h3>IA & PDFs</h3>
-      <p>Leitura inteligente, extração de dados e organização de documentos.</p>
+      <p>
+        Leitura inteligente, extração de dados e organização de documentos.
+      </p>
     </td>
   </tr>
 </table>
-
-</div>
 
 ---
 
@@ -303,7 +334,5 @@ repository   preparando projetos demonstrativos com dados fictícios
 │                                                              │
 ╰──────────────────────────────────────────────────────────────╯
 ```
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,50:14b8a6,100:8b5cf6&height=120&section=footer" />
 
 </div>
